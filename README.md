@@ -35,11 +35,11 @@
 ### 🕵️‍♂️ OSINT Freelancer (Upwork)
 - Delivered open-source intelligence reports for small businesses and individuals.
 - Identified exposed credentials, email leaks, and public infrastructure.
-- Rated ⭐⭐⭐⭐⭐ by clients for accuracy and actionable insights.
+
 
 ### 🖥️ Web Application Penetration Testing
 - Conducted simulated attacks on test websites.
-- Discovered XSS and SQL Injection vulnerabilities using OWASP ZAP & Burp Suite.
+- Discovered XSS and SQL Injection vulnerabilities/OWASP Top 10 Vuln's using OWASP ZAP & Burp Suite.
 - Wrote formal technical and executive reports with risk and mitigation.
 
 ### 📊 SIEM & Event Log Analysis
